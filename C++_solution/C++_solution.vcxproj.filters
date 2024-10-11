@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Simple C++">
+      <UniqueIdentifier>{09fc34f5-de5d-4701-b664-03ab7b95d7f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Number C++">
+      <UniqueIdentifier>{62ed39b6-725c-45e6-866e-7a71100f6324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Factorial">
+      <UniqueIdentifier>{d9ba4570-e940-4098-be61-4e6934100b3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fibonacci">
+      <UniqueIdentifier>{89032285-3489-416b-903f-ae742e11a84b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Types operator">
+      <UniqueIdentifier>{0cb7ac70-f453-4f5b-b4c7-e043e7b71421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Control Statement">
+      <UniqueIdentifier>{0acdeebf-a7bc-4adf-8b76-05353ffc7b4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Conversion">
+      <UniqueIdentifier>{074c6cfb-409b-4221-90cc-da086b702823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math Function">
+      <UniqueIdentifier>{93033c4b-d5b9-4093-acd3-8b938cdaa6bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Area &amp; Volume">
+      <UniqueIdentifier>{e855a29b-32b2-42fc-b5e9-06dc7c283e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Array">
+      <UniqueIdentifier>{a7d429b5-4c29-42f5-a924-34d2f9d68e45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Matrix">
+      <UniqueIdentifier>{9e383960-efe3-40ad-a153-561b0522f74b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bitwise Oprations">
+      <UniqueIdentifier>{d1050a42-5d61-40f7-ac68-7a95f2aac536}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Strings">
+      <UniqueIdentifier>{fa1c5960-855b-418c-9297-bb869885543d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String Function">
+      <UniqueIdentifier>{17ab81a8-7152-490b-a3d2-6a11a7071f58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File Handling">
+      <UniqueIdentifier>{0793c4f1-d5dc-4096-9c56-4552290d587d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{158cfe37-843b-4276-ab29-361068f2abc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OOP">
+      <UniqueIdentifier>{cf663d4f-00c3-4d5e-a03f-9b0d81a7a43e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Operator Overloading">
+      <UniqueIdentifier>{24627be6-f1e9-43a2-b285-cfbd3348fc0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IO Streams">
+      <UniqueIdentifier>{814c1c2c-2cea-456c-8a94-5f3154b6a2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inheritance">
+      <UniqueIdentifier>{e5d9c085-dbc3-433b-9f35-cbd756a32c23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{540eefe3-2e89-4284-97de-897eb92cfd98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Function Object">
+      <UniqueIdentifier>{fa222c30-0835-455c-8174-339c5dad8ce6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms">
+      <UniqueIdentifier>{1b0bfbf1-d39f-4e73-b57d-e87f33336c62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Greedy">
+      <UniqueIdentifier>{dcca72f9-086d-4026-b783-1fde15e87687}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Dynamic">
+      <UniqueIdentifier>{3b9a40a3-2a6a-422c-8f12-4a98683b1f47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Backtracking">
+      <UniqueIdentifier>{25beebcb-4635-414c-b7c4-249004a35fe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Searching">
+      <UniqueIdentifier>{c9084ee6-cd18-4e59-aeea-8608f8d4204c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Binary Search">
+      <UniqueIdentifier>{b873c1c4-c5b1-4444-b5d2-24a4770a2071}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Sorthing">
+      <UniqueIdentifier>{2d4849f2-b1e3-4a3b-a5db-c8fc87af5bea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\String Matching">
+      <UniqueIdentifier>{15447575-f133-4d5c-8a0f-f9a577c620aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Cryptography">
+      <UniqueIdentifier>{0468fe61-a88f-45da-86c8-3ed0e52b9114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Tree">
+      <UniqueIdentifier>{78a96a02-0788-47e3-9013-726e7f7b1ad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithms\Function">
+      <UniqueIdentifier>{323b4ead-89f1-417b-a80b-09408b67fda3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometric Algorithms">
+      <UniqueIdentifier>{2acebbeb-8d87-4bee-ae51-aa90939862ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometric Algorithms\Geometric">
+      <UniqueIdentifier>{accfd325-48ce-4321-91f1-dde6f6bc7473}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometric Algorithms\Robust">
+      <UniqueIdentifier>{f3e33092-f643-490d-aea7-01c6d93e932e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometric Algorithms\Convex Hull">
+      <UniqueIdentifier>{56bb1178-9445-4308-9173-fca69d5ed088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms">
+      <UniqueIdentifier>{6b9ad54d-2fa4-4519-9f8c-61dbdea7bd98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Numerical">
+      <UniqueIdentifier>{c0164c7f-8e25-4bab-935f-f61300cd1798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Linear">
+      <UniqueIdentifier>{b2caa5de-4185-4077-bdbe-8c645d239e9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Randomized">
+      <UniqueIdentifier>{2f979c2e-168c-4404-a8fa-ccef51a3c12c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Knapsack">
+      <UniqueIdentifier>{c015ac0a-84b6-4af9-930b-cbd20148a75a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Discrete">
+      <UniqueIdentifier>{d3e2bb88-3391-4b3b-921e-29bac17a7950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Sieve Primality">
+      <UniqueIdentifier>{3f49ff1b-665e-4f5b-96e3-f02e8a65cb1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mathematical Algorithms\Arbitrary Precision">
+      <UniqueIdentifier>{143a0390-32a2-4f01-a8a6-60424a20ad5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Combinatorial">
+      <UniqueIdentifier>{00105416-1cac-4b20-9ba6-932a3b30c9e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Combinatorial\Combinatorial">
+      <UniqueIdentifier>{b1b2b565-adc3-4e39-bbfb-3ef5ef3c3c6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Combinatorial\Premutations &amp; Combinations">
+      <UniqueIdentifier>{941caa9c-317b-4e70-baf3-226297556959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Combinatorial\Subset">
+      <UniqueIdentifier>{a93cbada-69d4-4bcb-8aba-ab05d5672288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Combinatorial\Partition">
+      <UniqueIdentifier>{d6539389-131e-4fcd-b987-0a8fbf9444f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms">
+      <UniqueIdentifier>{6fe7d481-a79b-467b-b672-5825d67bf7eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Graph">
+      <UniqueIdentifier>{621d4e40-ef5e-4bf8-822f-2757931d748b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Graph Connectivity">
+      <UniqueIdentifier>{a17c7da3-4ac6-4805-8584-7a1754235627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Shortest Path">
+      <UniqueIdentifier>{7498883f-9633-4301-a9bf-9c7886a16703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Graph MST">
+      <UniqueIdentifier>{2659870f-8322-49d9-8544-ca4af88c4ddc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Topological Sorting">
+      <UniqueIdentifier>{52f6c62d-1f0c-451d-a5df-5a4acab6ae5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Maximum Flow">
+      <UniqueIdentifier>{b4f2790d-2421-48de-aae6-7f83b5c32522}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Bipartite Graph">
+      <UniqueIdentifier>{c0f520f6-00d1-413d-90cd-5e960a19deb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Euler Graph">
+      <UniqueIdentifier>{2e988e62-46db-4054-a7d4-82cb40e26be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Hard Graph">
+      <UniqueIdentifier>{2d5d80b9-4d4d-41ef-869c-9edee19066b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Graph Coloring">
+      <UniqueIdentifier>{9ffdff65-937b-47b8-9864-b615636fa2f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Traveling Salesman">
+      <UniqueIdentifier>{3fc2d558-42bb-4806-84f1-24e39285c761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Algorithms\Clique">
+      <UniqueIdentifier>{7530e854-50bf-41c2-b304-a7312c6f0626}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C++_solution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="demo_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_1.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_2.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_3.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_4.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_5.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_6.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_7.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
