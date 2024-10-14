@@ -231,5 +231,11 @@
     <ClCompile Include="solution_7.cpp">
       <Filter>Simple C++</Filter>
     </ClCompile>
+    <ClCompile Include="solution_8.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
+    <ClCompile Include="solution_9.cpp">
+      <Filter>Simple C++</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
