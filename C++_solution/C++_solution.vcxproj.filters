@@ -237,5 +237,8 @@
     <ClCompile Include="solution_9.cpp">
       <Filter>Simple C++</Filter>
     </ClCompile>
+    <ClCompile Include="Array_1.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
